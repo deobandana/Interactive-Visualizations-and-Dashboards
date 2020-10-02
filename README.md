@@ -43,7 +43,7 @@ Step 8 - The example gauge code to account for values ranging from 0 through 9 i
 Step 9 - Then the chart is updated  at any moment a new sample is selected. 
 
 
-
+https://deobandana.github.io/Plot.ly-Homework/
 
 
                                                                                                                    
